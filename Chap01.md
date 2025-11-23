@@ -7,3 +7,13 @@
 3. And before that, how do we get better at identifying what “effective” and “better” and “desired-outcomes” will mean in our own business-context?
 
 **Things work better when they work together, on purpose.**
+
+As enterprise-architects, it’s our task to help people make sense of all of that complexity, and make the choices needed to keep everything working together, better, on-purpose.
+enterprise-architecture. As shown in Figure 1-1, most current enterprise-architecture methods and frameworks are set up to focus mainly on IT:
+- “Business-architecture,” the business-context for IT
+- “Information-systems architecture,” including IT-based processes, applications, and data
+- “Infrastructure-architecture,” including computers, networks, and other physical IT-hardware
+
+<img width="507" height="367" alt="image" src="https://github.com/user-attachments/assets/b21c79f0-21e8-4e32-88a0-f420eccdc6ae" />
+
+**Figure 1-1.** ***Scope of classic enterprise-architecture***
