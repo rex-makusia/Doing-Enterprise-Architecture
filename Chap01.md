@@ -17,3 +17,10 @@ enterprise-architecture. As shown in Figure 1-1, most current enterprise-archite
 <img width="507" height="367" alt="image" src="https://github.com/user-attachments/assets/b21c79f0-21e8-4e32-88a0-f420eccdc6ae" />
 
 **Figure 1-1.** ***Scope of classic enterprise-architecture***
+
+To avert that kind of risk, we need a whole-
+of-enterprise architecture that is able to cover a much broader scope, as shown in Figure 1-2.
+
+<img width="695" height="526" alt="image" src="https://github.com/user-attachments/assets/fe250711-963a-42cf-8fbd-e5c2aff77a12" />
+
+**Figure 1-2.** ***Scope of whole-enterprise-architecture***
